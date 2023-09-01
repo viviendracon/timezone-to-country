@@ -8,8 +8,12 @@ https://www.techighness.com/post/get-user-country-and-region-on-browser-with-jav
 Usage
 ```javascript
 const timezones = require('./timezone_countries.json');
+const fips = require('./fips_to_iso.json');
+
 const timezoneName = new Intl.DateTimeFormat('en-US').resolvedOptions().timeZone;
 let countryIso = timezones[timezoneName];
+let countryName = fips.find(obj => obj.ISO === countryIso).Country;
+console.log(countryName);
 ```
 
 If you do not have a current countries data source that maps to ISO codes, highly recommend this project:
