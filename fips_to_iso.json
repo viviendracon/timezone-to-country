@@ -1,0 +1,1247 @@
+[
+  {
+    "Country": "Afghanistan",
+    "FIPS": "AF",
+    "ISO": "AF"
+  },
+  {
+    "Country": "Aland Islands",
+    "FIPS": "–",
+    "ISO": "AX"
+  },
+  {
+    "Country": "Albania",
+    "FIPS": "AL",
+    "ISO": "AL"
+  },
+  {
+    "Country": "Algeria",
+    "FIPS": "AG",
+    "ISO": "DZ"
+  },
+  {
+    "Country": "American Samoa",
+    "FIPS": "AQ",
+    "ISO": "AS"
+  },
+  {
+    "Country": "Andorra",
+    "FIPS": "AN",
+    "ISO": "AD"
+  },
+  {
+    "Country": "Angola",
+    "FIPS": "AO",
+    "ISO": "AO"
+  },
+  {
+    "Country": "Anguilla",
+    "FIPS": "AV",
+    "ISO": "AI"
+  },
+  {
+    "Country": "Antarctica",
+    "FIPS": "AY",
+    "ISO": "AQ"
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "FIPS": "AC",
+    "ISO": "AG"
+  },
+  {
+    "Country": "Argentina",
+    "FIPS": "AR",
+    "ISO": "AR"
+  },
+  {
+    "Country": "Armenia",
+    "FIPS": "AM",
+    "ISO": "AM"
+  },
+  {
+    "Country": "Aruba",
+    "FIPS": "AA",
+    "ISO": "AW"
+  },
+  {
+    "Country": "Australia",
+    "FIPS": "AS",
+    "ISO": "AU"
+  },
+  {
+    "Country": "Austria",
+    "FIPS": "AU",
+    "ISO": "AT"
+  },
+  {
+    "Country": "Azerbaijan",
+    "FIPS": "AJ",
+    "ISO": "AZ"
+  },
+  {
+    "Country": "Bahamas",
+    "FIPS": "BF",
+    "ISO": "BS"
+  },
+  {
+    "Country": "Bahrain",
+    "FIPS": "BA",
+    "ISO": "BH"
+  },
+  {
+    "Country": "Bangladesh",
+    "FIPS": "BG",
+    "ISO": "BD"
+  },
+  {
+    "Country": "Barbados",
+    "FIPS": "BB",
+    "ISO": "BB"
+  },
+  {
+    "Country": "Belarus",
+    "FIPS": "BO",
+    "ISO": "BY"
+  },
+  {
+    "Country": "Belgium",
+    "FIPS": "BE",
+    "ISO": "BE"
+  },
+  {
+    "Country": "Belize",
+    "FIPS": "BH",
+    "ISO": "BZ"
+  },
+  {
+    "Country": "Benin",
+    "FIPS": "BN",
+    "ISO": "BJ"
+  },
+  {
+    "Country": "Bermuda",
+    "FIPS": "BD",
+    "ISO": "BM"
+  },
+  {
+    "Country": "Bhutan",
+    "FIPS": "BT",
+    "ISO": "BT"
+  },
+  {
+    "Country": "Bolivia (Plurinational State of)",
+    "FIPS": "BL",
+    "ISO": "BO"
+  },
+  {
+    "Country": "Bonaire, Sint Eustatius and Saba",
+    "FIPS": "–",
+    "ISO": "BQ"
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "FIPS": "BK",
+    "ISO": "BA"
+  },
+  {
+    "Country": "Botswana",
+    "FIPS": "BC",
+    "ISO": "BW"
+  },
+  {
+    "Country": "Bouvet Island",
+    "FIPS": "BV",
+    "ISO": "BV"
+  },
+  {
+    "Country": "Brazil",
+    "FIPS": "BR",
+    "ISO": "BR"
+  },
+  {
+    "Country": "British Indian Ocean Territory",
+    "FIPS": "IO",
+    "ISO": "IO"
+  },
+  {
+    "Country": "Brunei Darussalam",
+    "FIPS": "BX",
+    "ISO": "BN"
+  },
+  {
+    "Country": "Bulgaria",
+    "FIPS": "BU",
+    "ISO": "BG"
+  },
+  {
+    "Country": "Burkina Faso",
+    "FIPS": "UV",
+    "ISO": "BF"
+  },
+  {
+    "Country": "Burundi",
+    "FIPS": "BY",
+    "ISO": "BI"
+  },
+  {
+    "Country": "Cabo Verde",
+    "FIPS": "CV",
+    "ISO": "CV"
+  },
+  {
+    "Country": "Cambodia",
+    "FIPS": "CB",
+    "ISO": "KH"
+  },
+  {
+    "Country": "Cameroon",
+    "FIPS": "CM",
+    "ISO": "CM"
+  },
+  {
+    "Country": "Canada",
+    "FIPS": "CA",
+    "ISO": "CA"
+  },
+  {
+    "Country": "Cayman Islands",
+    "FIPS": "CJ",
+    "ISO": "KY"
+  },
+  {
+    "Country": "Central African Republic",
+    "FIPS": "CT",
+    "ISO": "CF"
+  },
+  {
+    "Country": "Chad",
+    "FIPS": "CD",
+    "ISO": "TD"
+  },
+  {
+    "Country": "Chile",
+    "FIPS": "CI",
+    "ISO": "CL"
+  },
+  {
+    "Country": "China",
+    "FIPS": "CH",
+    "ISO": "CN"
+  },
+  {
+    "Country": "Christmas Island",
+    "FIPS": "KT",
+    "ISO": "CX"
+  },
+  {
+    "Country": "Cocos (Keeling) Islands",
+    "FIPS": "CK",
+    "ISO": "CC"
+  },
+  {
+    "Country": "Colombia",
+    "FIPS": "CO",
+    "ISO": "CO"
+  },
+  {
+    "Country": "Comoros",
+    "FIPS": "CN",
+    "ISO": "KM"
+  },
+  {
+    "Country": "Congo",
+    "FIPS": "CF",
+    "ISO": "CG"
+  },
+  {
+    "Country": "Congo (Democratic Republic of the)",
+    "FIPS": "CG",
+    "ISO": "CD"
+  },
+  {
+    "Country": "Cook Islands",
+    "FIPS": "CW",
+    "ISO": "CK"
+  },
+  {
+    "Country": "Costa Rica",
+    "FIPS": "CS",
+    "ISO": "CR"
+  },
+  {
+    "Country": "Cote d’Ivoire",
+    "FIPS": "IV",
+    "ISO": "CI"
+  },
+  {
+    "Country": "Croatia",
+    "FIPS": "HR",
+    "ISO": "HR"
+  },
+  {
+    "Country": "Cuba",
+    "FIPS": "CU",
+    "ISO": "CU"
+  },
+  {
+    "Country": "Curacao",
+    "FIPS": "UC",
+    "ISO": "CW"
+  },
+  {
+    "Country": "Cyprus",
+    "FIPS": "CY",
+    "ISO": "CY"
+  },
+  {
+    "Country": "Czechia",
+    "FIPS": "EZ",
+    "ISO": "CZ"
+  },
+  {
+    "Country": "Denmark",
+    "FIPS": "DK",
+    "ISO": "DK"
+  },
+  {
+    "Country": "Djibouti",
+    "FIPS": "DJ",
+    "ISO": "DJ"
+  },
+  {
+    "Country": "Dominica",
+    "FIPS": "DO",
+    "ISO": "DM"
+  },
+  {
+    "Country": "Dominican Republic",
+    "FIPS": "DR",
+    "ISO": "DO"
+  },
+  {
+    "Country": "Ecuador",
+    "FIPS": "EC",
+    "ISO": "EC"
+  },
+  {
+    "Country": "Egypt",
+    "FIPS": "EG",
+    "ISO": "EG"
+  },
+  {
+    "Country": "El Salvador",
+    "FIPS": "ES",
+    "ISO": "SV"
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "FIPS": "EK",
+    "ISO": "GQ"
+  },
+  {
+    "Country": "Eritrea",
+    "FIPS": "ER",
+    "ISO": "ER"
+  },
+  {
+    "Country": "Estonia",
+    "FIPS": "EN",
+    "ISO": "EE"
+  },
+  {
+    "Country": "Ethiopia",
+    "FIPS": "ET",
+    "ISO": "ET"
+  },
+  {
+    "Country": "Falkland Islands (Malvinas)",
+    "FIPS": "FK",
+    "ISO": "FK"
+  },
+  {
+    "Country": "Faroe Islands",
+    "FIPS": "FO",
+    "ISO": "FO"
+  },
+  {
+    "Country": "Fiji",
+    "FIPS": "FJ",
+    "ISO": "FJ"
+  },
+  {
+    "Country": "Finland",
+    "FIPS": "FI",
+    "ISO": "FI"
+  },
+  {
+    "Country": "France",
+    "FIPS": "FR",
+    "ISO": "FR"
+  },
+  {
+    "Country": "French Guiana",
+    "FIPS": "FG",
+    "ISO": "GF"
+  },
+  {
+    "Country": "French Polynesia",
+    "FIPS": "FP",
+    "ISO": "PF"
+  },
+  {
+    "Country": "French Southern Territories",
+    "FIPS": "FS",
+    "ISO": "TF"
+  },
+  {
+    "Country": "Gabon",
+    "FIPS": "GB",
+    "ISO": "GA"
+  },
+  {
+    "Country": "Gambia",
+    "FIPS": "GA",
+    "ISO": "GM"
+  },
+  {
+    "Country": "Georgia",
+    "FIPS": "GG",
+    "ISO": "GE"
+  },
+  {
+    "Country": "Germany",
+    "FIPS": "GM",
+    "ISO": "DE"
+  },
+  {
+    "Country": "Ghana",
+    "FIPS": "GH",
+    "ISO": "GH"
+  },
+  {
+    "Country": "Gibraltar",
+    "FIPS": "GI",
+    "ISO": "GI"
+  },
+  {
+    "Country": "Greece",
+    "FIPS": "GR",
+    "ISO": "GR"
+  },
+  {
+    "Country": "Greenland",
+    "FIPS": "GL",
+    "ISO": "GL"
+  },
+  {
+    "Country": "Grenada",
+    "FIPS": "GJ",
+    "ISO": "GD"
+  },
+  {
+    "Country": "Guadeloupe",
+    "FIPS": "GP",
+    "ISO": "GP"
+  },
+  {
+    "Country": "Guam",
+    "FIPS": "GQ",
+    "ISO": "GU"
+  },
+  {
+    "Country": "Guatemala",
+    "FIPS": "GT",
+    "ISO": "GT"
+  },
+  {
+    "Country": "Guernsey",
+    "FIPS": "GK",
+    "ISO": "GG"
+  },
+  {
+    "Country": "Guinea",
+    "FIPS": "GV",
+    "ISO": "GN"
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "FIPS": "PU",
+    "ISO": "GW"
+  },
+  {
+    "Country": "Guyana",
+    "FIPS": "GY",
+    "ISO": "GY"
+  },
+  {
+    "Country": "Haiti",
+    "FIPS": "HA",
+    "ISO": "HT"
+  },
+  {
+    "Country": "Heard Island and McDonald Islands",
+    "FIPS": "HM",
+    "ISO": "HM"
+  },
+  {
+    "Country": "Holy See",
+    "FIPS": "VT",
+    "ISO": "VA"
+  },
+  {
+    "Country": "Honduras",
+    "FIPS": "HO",
+    "ISO": "HN"
+  },
+  {
+    "Country": "Hong Kong",
+    "FIPS": "HK",
+    "ISO": "HK"
+  },
+  {
+    "Country": "Hungary",
+    "FIPS": "HU",
+    "ISO": "HU"
+  },
+  {
+    "Country": "Iceland",
+    "FIPS": "IC",
+    "ISO": "IS"
+  },
+  {
+    "Country": "India",
+    "FIPS": "IN",
+    "ISO": "IN"
+  },
+  {
+    "Country": "Indonesia",
+    "FIPS": "ID",
+    "ISO": "ID"
+  },
+  {
+    "Country": "Iran (Islamic Republic of)",
+    "FIPS": "IR",
+    "ISO": "IR"
+  },
+  {
+    "Country": "Iraq",
+    "FIPS": "IZ",
+    "ISO": "IQ"
+  },
+  {
+    "Country": "Ireland",
+    "FIPS": "EI",
+    "ISO": "IE"
+  },
+  {
+    "Country": "Isle of Man",
+    "FIPS": "IM",
+    "ISO": "IM"
+  },
+  {
+    "Country": "Israel",
+    "FIPS": "IS",
+    "ISO": "IL"
+  },
+  {
+    "Country": "Italy",
+    "FIPS": "IT",
+    "ISO": "IT"
+  },
+  {
+    "Country": "Jamaica",
+    "FIPS": "JM",
+    "ISO": "JM"
+  },
+  {
+    "Country": "Japan",
+    "FIPS": "JA",
+    "ISO": "JP"
+  },
+  {
+    "Country": "Jersey",
+    "FIPS": "JE",
+    "ISO": "JE"
+  },
+  {
+    "Country": "Jordan",
+    "FIPS": "JO",
+    "ISO": "JO"
+  },
+  {
+    "Country": "Kazakhstan",
+    "FIPS": "KZ",
+    "ISO": "KZ"
+  },
+  {
+    "Country": "Kenya",
+    "FIPS": "KE",
+    "ISO": "KE"
+  },
+  {
+    "Country": "Kiribati",
+    "FIPS": "KR",
+    "ISO": "KI"
+  },
+  {
+    "Country": "Korea (Democratic People’s Republic of)",
+    "FIPS": "KN",
+    "ISO": "KP"
+  },
+  {
+    "Country": "Korea (Republic of)",
+    "FIPS": "KS",
+    "ISO": "KR"
+  },
+  {
+    "Country": "Kuwait",
+    "FIPS": "KU",
+    "ISO": "KW"
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "FIPS": "KG",
+    "ISO": "KG"
+  },
+  {
+    "Country": "Lao People’s Democratic Republic",
+    "FIPS": "LA",
+    "ISO": "LA"
+  },
+  {
+    "Country": "Latvia",
+    "FIPS": "LG",
+    "ISO": "LV"
+  },
+  {
+    "Country": "Lebanon",
+    "FIPS": "LE",
+    "ISO": "LB"
+  },
+  {
+    "Country": "Lesotho",
+    "FIPS": "LT",
+    "ISO": "LS"
+  },
+  {
+    "Country": "Liberia",
+    "FIPS": "LI",
+    "ISO": "LR"
+  },
+  {
+    "Country": "Libya",
+    "FIPS": "LY",
+    "ISO": "LY"
+  },
+  {
+    "Country": "Liechtenstein",
+    "FIPS": "LS",
+    "ISO": "LI"
+  },
+  {
+    "Country": "Lithuania",
+    "FIPS": "LH",
+    "ISO": "LT"
+  },
+  {
+    "Country": "Luxembourg",
+    "FIPS": "LU",
+    "ISO": "LU"
+  },
+  {
+    "Country": "Macao",
+    "FIPS": "MC",
+    "ISO": "MO"
+  },
+  {
+    "Country": "North Macedonia",
+    "FIPS": "MK",
+    "ISO": "MK"
+  },
+  {
+    "Country": "Madagascar",
+    "FIPS": "MA",
+    "ISO": "MG"
+  },
+  {
+    "Country": "Malawi",
+    "FIPS": "MI",
+    "ISO": "MW"
+  },
+  {
+    "Country": "Malaysia",
+    "FIPS": "MY",
+    "ISO": "MY"
+  },
+  {
+    "Country": "Maldives",
+    "FIPS": "MV",
+    "ISO": "MV"
+  },
+  {
+    "Country": "Mali",
+    "FIPS": "ML",
+    "ISO": "ML"
+  },
+  {
+    "Country": "Malta",
+    "FIPS": "MT",
+    "ISO": "MT"
+  },
+  {
+    "Country": "Marshall Islands",
+    "FIPS": "RM",
+    "ISO": "MH"
+  },
+  {
+    "Country": "Martinique",
+    "FIPS": "MB",
+    "ISO": "MQ"
+  },
+  {
+    "Country": "Mauritania",
+    "FIPS": "MR",
+    "ISO": "MR"
+  },
+  {
+    "Country": "Mauritius",
+    "FIPS": "MP",
+    "ISO": "MU"
+  },
+  {
+    "Country": "Mayotte",
+    "FIPS": "MF",
+    "ISO": "YT"
+  },
+  {
+    "Country": "Mexico",
+    "FIPS": "MX",
+    "ISO": "MX"
+  },
+  {
+    "Country": "Micronesia (Federated States of)",
+    "FIPS": "FM",
+    "ISO": "FM"
+  },
+  {
+    "Country": "Moldova (Republic of)",
+    "FIPS": "MD",
+    "ISO": "MD"
+  },
+  {
+    "Country": "Monaco",
+    "FIPS": "MN",
+    "ISO": "MC"
+  },
+  {
+    "Country": "Mongolia",
+    "FIPS": "MG",
+    "ISO": "MN"
+  },
+  {
+    "Country": "Montenegro",
+    "FIPS": "MJ",
+    "ISO": "ME"
+  },
+  {
+    "Country": "Montserrat",
+    "FIPS": "MH",
+    "ISO": "MS"
+  },
+  {
+    "Country": "Morocco",
+    "FIPS": "MO",
+    "ISO": "MA"
+  },
+  {
+    "Country": "Mozambique",
+    "FIPS": "MZ",
+    "ISO": "MZ"
+  },
+  {
+    "Country": "Myanmar",
+    "FIPS": "BM",
+    "ISO": "MM"
+  },
+  {
+    "Country": "Namibia",
+    "FIPS": "WA",
+    "ISO": "NA"
+  },
+  {
+    "Country": "Nauru",
+    "FIPS": "NR",
+    "ISO": "NR"
+  },
+  {
+    "Country": "Nepal",
+    "FIPS": "NP",
+    "ISO": "NP"
+  },
+  {
+    "Country": "Netherlands",
+    "FIPS": "NL",
+    "ISO": "NL"
+  },
+  {
+    "Country": "New Caledonia",
+    "FIPS": "NC",
+    "ISO": "NC"
+  },
+  {
+    "Country": "New Zealand",
+    "FIPS": "NZ",
+    "ISO": "NZ"
+  },
+  {
+    "Country": "Nicaragua",
+    "FIPS": "NU",
+    "ISO": "NI"
+  },
+  {
+    "Country": "Niger",
+    "FIPS": "NG",
+    "ISO": "NE"
+  },
+  {
+    "Country": "Nigeria",
+    "FIPS": "NI",
+    "ISO": "NG"
+  },
+  {
+    "Country": "Niue",
+    "FIPS": "NE",
+    "ISO": "NU"
+  },
+  {
+    "Country": "Norfolk Island",
+    "FIPS": "NF",
+    "ISO": "NF"
+  },
+  {
+    "Country": "Northern Mariana Islands",
+    "FIPS": "CQ",
+    "ISO": "MP"
+  },
+  {
+    "Country": "Norway",
+    "FIPS": "NO",
+    "ISO": "NO"
+  },
+  {
+    "Country": "Oman",
+    "FIPS": "MU",
+    "ISO": "OM"
+  },
+  {
+    "Country": "Pakistan",
+    "FIPS": "PK",
+    "ISO": "PK"
+  },
+  {
+    "Country": "Palau",
+    "FIPS": "PS",
+    "ISO": "PW"
+  },
+  {
+    "Country": "Palestine, State of",
+    "FIPS": "WE",
+    "ISO": "PS"
+  },
+  {
+    "Country": "Panama",
+    "FIPS": "PM",
+    "ISO": "PA"
+  },
+  {
+    "Country": "Papua New Guinea",
+    "FIPS": "PP",
+    "ISO": "PG"
+  },
+  {
+    "Country": "Paraguay",
+    "FIPS": "PA",
+    "ISO": "PY"
+  },
+  {
+    "Country": "Peru",
+    "FIPS": "PE",
+    "ISO": "PE"
+  },
+  {
+    "Country": "Philippines",
+    "FIPS": "RP",
+    "ISO": "PH"
+  },
+  {
+    "Country": "Pitcairn",
+    "FIPS": "PC",
+    "ISO": "PN"
+  },
+  {
+    "Country": "Poland",
+    "FIPS": "PL",
+    "ISO": "PL"
+  },
+  {
+    "Country": "Portugal",
+    "FIPS": "PO",
+    "ISO": "PT"
+  },
+  {
+    "Country": "Puerto Rico",
+    "FIPS": "RQ",
+    "ISO": "PR"
+  },
+  {
+    "Country": "Qatar",
+    "FIPS": "QA",
+    "ISO": "QA"
+  },
+  {
+    "Country": "Reunion",
+    "FIPS": "RE",
+    "ISO": "RE"
+  },
+  {
+    "Country": "Romania",
+    "FIPS": "RO",
+    "ISO": "RO"
+  },
+  {
+    "Country": "Russian Federation",
+    "FIPS": "RS",
+    "ISO": "RU"
+  },
+  {
+    "Country": "Rwanda",
+    "FIPS": "RW",
+    "ISO": "RW"
+  },
+  {
+    "Country": "Saint Barthelemy",
+    "FIPS": "TB",
+    "ISO": "BL"
+  },
+  {
+    "Country": "Saint Helena, Ascension and Tristan da Cunha",
+    "FIPS": "SH",
+    "ISO": "SH"
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "FIPS": "SC",
+    "ISO": "KN"
+  },
+  {
+    "Country": "Saint Lucia",
+    "FIPS": "ST",
+    "ISO": "LC"
+  },
+  {
+    "Country": "Saint Martin",
+    "FIPS": "RN",
+    "ISO": "MF"
+  },
+  {
+    "Country": "Saint Pierre and Miquelon",
+    "FIPS": "SB",
+    "ISO": "PM"
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "FIPS": "VC",
+    "ISO": "VC"
+  },
+  {
+    "Country": "Samoa",
+    "FIPS": "WS",
+    "ISO": "WS"
+  },
+  {
+    "Country": "San Marino",
+    "FIPS": "SM",
+    "ISO": "SM"
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "FIPS": "TP",
+    "ISO": "ST"
+  },
+  {
+    "Country": "Saudi Arabia",
+    "FIPS": "SA",
+    "ISO": "SA"
+  },
+  {
+    "Country": "Senegal",
+    "FIPS": "SG",
+    "ISO": "SN"
+  },
+  {
+    "Country": "Serbia",
+    "FIPS": "RI",
+    "ISO": "RS"
+  },
+  {
+    "Country": "Seychelles",
+    "FIPS": "SE",
+    "ISO": "SC"
+  },
+  {
+    "Country": "Sierra Leone",
+    "FIPS": "SL",
+    "ISO": "SL"
+  },
+  {
+    "Country": "Singapore",
+    "FIPS": "SN",
+    "ISO": "SG"
+  },
+  {
+    "Country": "Sint Maarten",
+    "FIPS": "NN",
+    "ISO": "SX"
+  },
+  {
+    "Country": "Slovakia",
+    "FIPS": "LO",
+    "ISO": "SK"
+  },
+  {
+    "Country": "Slovenia",
+    "FIPS": "SI",
+    "ISO": "SI"
+  },
+  {
+    "Country": "Solomon Islands",
+    "FIPS": "BP",
+    "ISO": "SB"
+  },
+  {
+    "Country": "Somalia",
+    "FIPS": "SO",
+    "ISO": "SO"
+  },
+  {
+    "Country": "South Africa",
+    "FIPS": "SF",
+    "ISO": "ZA"
+  },
+  {
+    "Country": "South Georgia and the South Sandwich Islands",
+    "FIPS": "SX",
+    "ISO": "GS"
+  },
+  {
+    "Country": "South Sudan",
+    "FIPS": "OD",
+    "ISO": "SS"
+  },
+  {
+    "Country": "Spain",
+    "FIPS": "SP",
+    "ISO": "ES"
+  },
+  {
+    "Country": "Sri Lanka",
+    "FIPS": "CE",
+    "ISO": "LK"
+  },
+  {
+    "Country": "Sudan",
+    "FIPS": "SU",
+    "ISO": "SD"
+  },
+  {
+    "Country": "Suriname",
+    "FIPS": "NS",
+    "ISO": "SR"
+  },
+  {
+    "Country": "Svalbard and Jan Mayen",
+    "FIPS": "SV",
+    "ISO": "SJ"
+  },
+  {
+    "Country": "Eswatini",
+    "FIPS": "WZ",
+    "ISO": "SZ"
+  },
+  {
+    "Country": "Sweden",
+    "FIPS": "SW",
+    "ISO": "SE"
+  },
+  {
+    "Country": "Switzerland",
+    "FIPS": "SZ",
+    "ISO": "CH"
+  },
+  {
+    "Country": "Syrian Arab Republic",
+    "FIPS": "SY",
+    "ISO": "SY"
+  },
+  {
+    "Country": "Taiwan (Province of China)",
+    "FIPS": "TW",
+    "ISO": "TW"
+  },
+  {
+    "Country": "Tajikistan",
+    "FIPS": "TI",
+    "ISO": "TJ"
+  },
+  {
+    "Country": "Tanzania, United Republic of",
+    "FIPS": "TZ",
+    "ISO": "TZ"
+  },
+  {
+    "Country": "Thailand",
+    "FIPS": "TH",
+    "ISO": "TH"
+  },
+  {
+    "Country": "Timor-Leste",
+    "FIPS": "TT",
+    "ISO": "TL"
+  },
+  {
+    "Country": "Togo",
+    "FIPS": "TO",
+    "ISO": "TG"
+  },
+  {
+    "Country": "Tokelau",
+    "FIPS": "TL",
+    "ISO": "TK"
+  },
+  {
+    "Country": "Tonga",
+    "FIPS": "TN",
+    "ISO": "TO"
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "FIPS": "TD",
+    "ISO": "TT"
+  },
+  {
+    "Country": "Tunisia",
+    "FIPS": "TS",
+    "ISO": "TN"
+  },
+  {
+    "Country": "Turkey",
+    "FIPS": "TU",
+    "ISO": "TR"
+  },
+  {
+    "Country": "Turkmenistan",
+    "FIPS": "TX",
+    "ISO": "TM"
+  },
+  {
+    "Country": "Turks and Caicos Islands",
+    "FIPS": "TK",
+    "ISO": "TC"
+  },
+  {
+    "Country": "Tuvalu",
+    "FIPS": "TV",
+    "ISO": "TV"
+  },
+  {
+    "Country": "Uganda",
+    "FIPS": "UG",
+    "ISO": "UG"
+  },
+  {
+    "Country": "Ukraine",
+    "FIPS": "UP",
+    "ISO": "UA"
+  },
+  {
+    "Country": "United Arab Emirates",
+    "FIPS": "AE",
+    "ISO": "AE"
+  },
+  {
+    "Country": "United Kingdom of Great Britain and Northern Ireland",
+    "FIPS": "UK",
+    "ISO": "GB"
+  },
+  {
+    "Country": "United States of America",
+    "FIPS": "US",
+    "ISO": "US"
+  },
+  {
+    "Country": "United States Minor Outlying Islands",
+    "FIPS": "–",
+    "ISO": "UM"
+  },
+  {
+    "Country": "Uruguay",
+    "FIPS": "UY",
+    "ISO": "UY"
+  },
+  {
+    "Country": "Uzbekistan",
+    "FIPS": "UZ",
+    "ISO": "UZ"
+  },
+  {
+    "Country": "Vanuatu",
+    "FIPS": "NH",
+    "ISO": "VU"
+  },
+  {
+    "Country": "Venezuela (Bolivarian Republic of)",
+    "FIPS": "VE",
+    "ISO": "VE"
+  },
+  {
+    "Country": "Viet Nam",
+    "FIPS": "VN",
+    "ISO": "VN"
+  },
+  {
+    "Country": "Virgin Islands (British)",
+    "FIPS": "VI",
+    "ISO": "VG"
+  },
+  {
+    "Country": "Virgin Islands (U.S.)",
+    "FIPS": "VQ",
+    "ISO": "VI"
+  },
+  {
+    "Country": "Wallis and Futuna",
+    "FIPS": "WF",
+    "ISO": "WF"
+  },
+  {
+    "Country": "Western Sahara",
+    "FIPS": "WI",
+    "ISO": "EH"
+  },
+  {
+    "Country": "Yemen",
+    "FIPS": "YM",
+    "ISO": "YE"
+  },
+  {
+    "Country": "Zambia",
+    "FIPS": "ZA",
+    "ISO": "ZM"
+  },
+  {
+    "Country": "Zimbabwe",
+    "FIPS": "ZI",
+    "ISO": "ZW"
+  }
+]
