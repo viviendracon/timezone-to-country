@@ -16,5 +16,6 @@ let countryName = fips.find(obj => obj.ISO === countryIso).Country;
 console.log(countryName);
 ```
 
-If you do not have a current countries data source that maps to ISO codes, highly recommend this project:
+The fips_to_iso.json file is a slim mapping file of ISO-, FIPS, and country names. 
+If you would like richer country data that also maps to ISO codes, highly recommend this project:
 https://github.com/mledoze/countries
